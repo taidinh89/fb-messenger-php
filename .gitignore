@@ -81,5 +81,12 @@ phpunit.xml
 /build/
 .env
 
-#config
+#config remote dir
+config.php
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.idea/
 config.php

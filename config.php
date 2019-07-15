@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'verify_token' => '22',
+    'verify_token' => '2222',
     'token' => ''
 ];
