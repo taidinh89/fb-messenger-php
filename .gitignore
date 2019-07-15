@@ -80,3 +80,6 @@ phpunit.phar
 phpunit.xml
 /build/
 .env
+
+#config
+config.php
